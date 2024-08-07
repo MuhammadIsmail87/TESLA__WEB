@@ -18,17 +18,82 @@
     background-image: url(images/tesla2.png);
     background-repeat: no-repeat;
     background-size: cover;
-     padding-top: 45px;
+    padding-top: 45px;
 
 }
-.parent3{
+
+.parent3 {
     height: 641px;
     width: 100%;
     background-image: url(images/tesla3.png);
     background-repeat: no-repeat;
     background-size: cover;
-     padding-top: 45px;
+    padding-top: 45px;
 }
+
+.parent4 {
+    height: 641px;
+    width: 100%;
+    background-image: url(images/tesla4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+
+.parent5 {
+    height: 641px;
+    width: 100%;
+    background-image: url(images/tesla5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+
+.parent6 {
+    height: 641px;
+    width: 100%;
+    background-image: url(images/tesla6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+}
+
+.parent7 {
+    height: 641px;
+    width: 100%;
+    background-image: url(images/tesla7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 45px;
+
+}
+
+.parent8 {
+    height: 641px;
+    width: 100%;
+    background-image: url(images/tesla8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .child-div2 {
+        margin-top:
+            330px;
+    }
+
+
+}
+
+.parent9 {
+    height: 641px;
+    width: 100%;
+    background-image: url(images/tesla9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:45px;
+    margin-top: 200px;
+
+}
+
 .main-div {
     text-align: center;
 }
