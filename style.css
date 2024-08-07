@@ -74,13 +74,7 @@
     background-image: url(images/tesla8.png);
     background-repeat: no-repeat;
     background-size: cover;
-
-    .child-div2 {
-        margin-top:
-            330px;
-    }
-
-
+    padding-top:45px;
 }
 
 .parent9 {
@@ -90,8 +84,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding-top:45px;
-    margin-top: 200px;
-
 }
 
 .main-div {
@@ -122,4 +114,30 @@
 .child-div2 {
     margin-top: 270px;
 
+}
+.parent10{
+    background-color: black;
+    color:#BDBEBF;
+    
+}
+.child3{
+text-align: center;
+padding:50px 100px  ;
+}
+.a2{
+    color: #BDBEBF;
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-left: 100px;
+    gap: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.a3{
+    text-decoration: none;
+    color:#BDBEBF;
 }
