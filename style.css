@@ -1,5 +1,8 @@
 .parent1{
     height:641px;
     width: 100%;
-    background-image: url(images/pic\ 2\ .png.jpeg);
+    background-image: url(images/image1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -20px;
 }
